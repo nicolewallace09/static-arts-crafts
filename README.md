@@ -20,6 +20,7 @@ This application is based on the wireframe below:
 <img src='https://content.codecademy.com/courses/freelance-1/unit-2/dasmotos-arts_redline.jpg'>
 The site I created: 
 <img src="images/homepage.png">
+<img src="images/homepage2.png">
 
 ## License 
 This project is license under MIT
