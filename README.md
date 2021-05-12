@@ -22,6 +22,8 @@ The site I created:
 <img src="images/homepage.png">
 <img src="images/homepage2.png">
 
+Site is hosted on [Github Pages](https://nicolewallace09.github.io/static-arts-crafts/)
+
 ## License 
 This project is license under MIT
 
